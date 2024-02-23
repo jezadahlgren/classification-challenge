@@ -1,9 +1,7 @@
 # classification-challenge
 Module 13 Challenge
 
-**Name:**
-
-Module 13 Challenge: classification-challenge
+**Name:**  Module 13 Challenge: classification-challenge
 
 **Description:**
 
@@ -15,9 +13,9 @@ The bulk of support was provide through class lessons
 
 **Libraries imported:**
 
-    <ul>- pandas</ul>
-    <ul>- sklearn.model_selection import train_test_split </ul>
-    <ul>- sklearn.metrics import accuracy_score</ul>
+    - pandas
+    - sklearn.model_selection import train_test_split
+    - sklearn.metrics import accuracy_score
 
 **Data analysis process:**
 
