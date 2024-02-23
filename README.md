@@ -1,19 +1,22 @@
 # classification-challenge
 Module 13 Challenge
 
-<h1 align="center">Hi 👋, I'm Jennifer Dahlgren</h1>
-<h3 align="center">Taking classes for AI Data Science Bootcamp</h3>
+**Name:
+Module 13 Challenge: classification-challenge
 
-- 🔭 I’m currently working on classification [classification-challenge](https://github.com/jezadahlgren/classification-challenge)
+**Description:
+This is an analysis of Internet Service Provbide data that is looking to classify spam emails using two different models: logistic regression and random forest.  Once each model is use to predict outcomes each model is compared for accuracy.  
 
-- 🌱 I’m currently learning **python, sql, others**
+**Support: 
+The bulk of support was provide through class lessons 
 
-- 👨‍💻 All of my projects are available at [https://github.com/jezadahlgren](https://github.com/jezadahlgren)
+**Libraries imported: 
+    - pandas
+    - sklearn.model_selection import train_test_split 
+    - sklearn.metrics import accuracy_score
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+** Data analysis process:
+The data was trained, tested and split then standardized to create two classification models: logistic regression and random forest. Each model was then compared for accuracy score to determine which model would best predict if emails were spam or not spam.  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
+**Conclusion:
+The accuracy score of the random forest model was slightly better than the logistic (.96 VS .92).  
